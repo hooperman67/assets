@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Allow only HTML files
+!*.html
+
+# Allow the cache folder
+!cache/
+!cache/*
+
